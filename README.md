@@ -7,12 +7,12 @@ This project addresses a significant industrial challenge related to managing sp
 This project aims to develop a Convolutional Neural Network (CNN) model for iris localization using the VGG16 architecture. The goal is to locate the iris in eye images accurately, a crucial step in various biometric and computer vision applications, including eye-tracking systems and security authentication.
 
 ## Requirements
-Python 3.7+
-TensorFlow 2.x
-Keras
-OpenCV
-NumPy
-Matplotlib
-Pandas
-scikit-learn
+Python 3.7+<br>
+TensorFlow 2.x<br>
+Keras<br>
+OpenCV<br>
+NumPy<br>
+Matplotlib<br>
+Pandas<br>
+scikit-learn<br>
 labelme
