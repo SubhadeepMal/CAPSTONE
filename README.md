@@ -8,7 +8,7 @@ This project aims to develop a Convolutional Neural Network (CNN) model for iris
 
 ## Model Architecture
 The model uses the VGG16 architecture pre-trained on ImageNet as a backbone, with additional layers for regression to predict the iris center coordinates (x, y) and radius (r).
-
+![Diagram of the Model](VGG16.png)
 
 ## Requirements
 Python 3.7+<br>
